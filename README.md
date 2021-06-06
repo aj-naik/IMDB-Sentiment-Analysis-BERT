@@ -11,3 +11,6 @@ Another Implementation of same task would be Official TensorFlow guide found her
 https://www.tensorflow.org/text/tutorials/classify_text_with_bert
 
 I found this implementation a bit messy and complex. So tried doing the same task using Hugging Face transformer library. However one benefit of the official guide is that it gives information on serving the model on Tensorflow Serving which is quite a handy and easy tool to use.
+
+# Note
+Dataset is being sourced directly from origin and train, test spilts being created are stored in different directories. All of the code for it is in the notebook itself.
